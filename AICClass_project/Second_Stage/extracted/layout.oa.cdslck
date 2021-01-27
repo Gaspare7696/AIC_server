@@ -6,11 +6,11 @@
 LockStakeVersion               1.1
 LoginName                      stefano.pala
 HostName                       ssigpro
-ProcessIdentifier              17175
-ProcessCreationTime_UTC        1516308701
-ProcessCreationTime_Readable   Thu Jan 18 21:51:41 2018 CET
+ProcessIdentifier              29782
+ProcessCreationTime_UTC        1517088408
+ProcessCreationTime_Readable   Sat Jan 27 22:26:48 2018 CET
 AppIdentifier                  OA File System Design Manager
 OSType                         unix
 ReasonForPlacingEditLock       OpenAccess edit lock
-FilePathUsedToEditLock         /home/stefano.pala/cadence/AIC2017/AICClass_project/Second_Stage/schematic/sch.oa.cdslck
-TimeEditLocked                 Thu Jan 18 21:53:37 2018 CET
+FilePathUsedToEditLock         /home/stefano.pala/cadence/AIC2017/AICClass_project/Second_Stage/extracted/layout.oa.cdslck
+TimeEditLocked                 Sat Jan 27 23:44:26 2018 CET
