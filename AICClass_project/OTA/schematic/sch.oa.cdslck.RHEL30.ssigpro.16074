@@ -6,11 +6,11 @@
 LockStakeVersion               1.1
 LoginName                      angelo.carnazzo
 HostName                       ssigpro
-ProcessIdentifier              16073
-ProcessCreationTime_UTC        1518876520
-ProcessCreationTime_Readable   Sat Feb 17 15:08:40 2018 CET
+ProcessIdentifier              16074
+ProcessCreationTime_UTC        1518891606
+ProcessCreationTime_Readable   Sat Feb 17 19:20:06 2018 CET
 AppIdentifier                  OA File System Design Manager
 OSType                         unix
 ReasonForPlacingEditLock       OpenAccess edit lock
-FilePathUsedToEditLock         /home/angelo.carnazzo/cadence/AIC2017/AICClass_project/OTA_schematic/schematic/sch.oa.cdslck
-TimeEditLocked                 Sat Feb 17 16:47:43 2018 CET
+FilePathUsedToEditLock         /home/angelo.carnazzo/cadence/AIC2017/AICClass_project/OTA/schematic/sch.oa.cdslck.dirlck
+TimeEditLocked                 Sat Feb 17 21:40:56 2018 CET
