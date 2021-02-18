@@ -12,5 +12,5 @@ ProcessCreationTime_Readable   Sun Feb 18 01:05:15 2018 CET
 AppIdentifier                  OA File System Design Manager
 OSType                         unix
 ReasonForPlacingEditLock       OpenAccess edit lock
-FilePathUsedToEditLock         /home/angelo.carnazzo/cadence/AIC2017/AICClass_project/OTA_schematic/schematic/sch.oa.cdslck.dirlck
-TimeEditLocked                 Sun Feb 18 01:09:09 2018 CET
+FilePathUsedToEditLock         /home/angelo.carnazzo/cadence/AIC2017/AICClass_project/OTA_2/extracted/layout.oa.cdslck
+TimeEditLocked                 Sun Feb 18 01:21:52 2018 CET
