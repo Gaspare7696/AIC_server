@@ -1,0 +1,16 @@
+#
+# Edit Lock-Stake file. CAUTION: Please do not change.
+#
+# Information about current Edit Lock Owner.
+#
+LockStakeVersion               1.1
+LoginName                      angelo.carnazzo
+HostName                       ssigpro
+ProcessIdentifier              25240
+ProcessCreationTime_UTC        1519492264
+ProcessCreationTime_Readable   Sat Feb 24 18:11:04 2018 CET
+AppIdentifier                  OA File System Design Manager
+OSType                         unix
+ReasonForPlacingEditLock       OpenAccess edit lock
+FilePathUsedToEditLock         /home/angelo.carnazzo/cadence/AIC2017/AICClass_project/Res_156k/schematic/sch.oa.cdslck
+TimeEditLocked                 Sat Feb 24 19:23:02 2018 CET
